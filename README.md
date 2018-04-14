@@ -1,1 +1,1 @@
-24-5-UnitTests-SkiJumps
+24-5-UnitTests-SkiJumping
